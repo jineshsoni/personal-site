@@ -41,7 +41,7 @@
     "body-parser": "^1.18.3",
     "compression": "^1.7.3",
     "css-loader": "^2.1.0",
-    "dayjs": "^1.8.5",
+    "dayjs": "^1.8.12",
     "dotenv": "^6.2.0",
     "express": "^4.16.4",
     "file-loader": "^3.0.1",
